@@ -60,7 +60,7 @@ INFORMATIQUE - GRAPHISME - FORMATION PROFESSIONNELLE
 
   <section id="apropos">
     <h2>À propos</h2>
-    <p>Je suis enseignant passionné, spécialisé dans la préparation des élèves en classe d’examen. 
+    <p>Je suis à la fois enseignant et Formateur : Enseignant des Sciences spécialement la Mathématiques et aussi Formateur dans le domaine informatique et Graphisme. Mettre en valeur mes connaissances est l'unes des choses qui me préoccupe.
        Mon objectif est d’accompagner les élèves vers la réussite grâce à des méthodes pédagogiques modernes et motivantes.</p>
   </section>
 
